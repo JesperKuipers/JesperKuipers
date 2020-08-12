@@ -1,5 +1,5 @@
 ### Hi there 👋 welcome to my github profile
-![](name-of-giphy.gif)
+![](Dancing-cat.gif)
 <!--
 **JesperKuipers/JesperKuipers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
