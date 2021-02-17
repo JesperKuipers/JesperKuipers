@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  👤 Software Engineering student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
+  👤 IT Management student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
   <br>
   🛠️ Working at <a href="https://metamicro.nl/">MetaMicro Automatisering BV</a> 🛠️
   <br>
