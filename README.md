@@ -8,7 +8,7 @@
 <p align="center">
   👤 IT Management student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
   <br>
-  🛠️ Working at <a href="https://metamicro.nl/">MetaMicro Automatisering BV</a> 🛠️
+  🛠️ Working at local supermarket</a> 🛠️
   <br>
   💕 Gaming, Software Development, IOT, Music 💕
   <br>
