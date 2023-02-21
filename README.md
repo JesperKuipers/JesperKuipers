@@ -8,9 +8,9 @@
 <p align="center">
   👤 IT Management student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
   <br>
-  🛠️ Working at local supermarket</a> 🛠️
+  🛠️ Working partime as SysAdmin</a> 🛠️
   <br>
-  💕 Gaming, Software Development, IOT, Music 💕
+  💕 Gaming, IOT, Music 💕
   <br>
   📚 C#, Java, PHP, (X)HTML, CSS, Lua, JS 📚  
 </p>
