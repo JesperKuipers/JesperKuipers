@@ -16,7 +16,7 @@
 </p>
 <br>
 <p align="left">
-  <a href="https://jesperkuipers.me/">🌍 My Website (WIP)</a>
+  <a href="https://wasbever.nl">🌍 My Website</a>
   <br>
   <a href="https://custom-rigs.nl/">🖥️ My Company</a>
 </p>
