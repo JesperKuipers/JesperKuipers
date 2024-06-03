@@ -8,7 +8,7 @@
 <p align="center">
   👤 IT Management student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
   <br>
-  🛠️ Working partime as SysAdmin</a> 🛠️
+  🛠️ Doing an IT Intersnhip</a> 🛠️
   <br>
   💕 Gaming, IOT, Music 💕
   <br>
