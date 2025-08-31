@@ -31,4 +31,6 @@
 
 <img align="right" width="359" height="auto" alt="JesperKuipers's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesperKuipers&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 
+![](https://komarev.com/ghpvc/?username=jesperkuipers&color=0FF54C)
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
