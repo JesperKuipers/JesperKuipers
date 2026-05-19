@@ -8,9 +8,9 @@
 <br><br>
 
 <p align="center">
-  👤 IT Management student at <a href="https://www.nhlstenden.com/hbo-opleidingen/informatica">NHL Stenden</a>. 👤
+  👤 IT Administrator @ Ferus Smit</a> 👤
   <br>
-  🛠️ Doing an IT Intersnhip</a> 🛠️
+  🛠️ Homelab enthusiast</a> 🛠️
   <br>
   💕 Gaming, IOT, Music 💕
   <br>
@@ -27,9 +27,9 @@
 
 ### 🧮 Github Stats
 
-<img align="left" width="430" height="auto" alt="JesperKuipers's github stats" src="https://github-readme-stats.vercel.app/api?username=JesperKuipers&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=false&amp;include_all_commits=true">
+<img align="left" width="430" height="auto" alt="JesperKuipers's github stats" src="https://github-stats-extended.vercel.app/api?username=JesperKuipers&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=false&amp;include_all_commits=true">
 
-<img align="right" width="359" height="auto" alt="JesperKuipers's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesperKuipers&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+<img align="right" width="359" height="auto" alt="JesperKuipers's github stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JesperKuipers&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 
 ![](https://komarev.com/ghpvc/?username=jesperkuipers&color=0FF54C)
 
